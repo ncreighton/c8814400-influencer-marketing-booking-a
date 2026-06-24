@@ -1,2 +1,28 @@
-# c8814400-influencer-marketing-booking-a
-The fastest way to add powerful functionality to WordPress without writing code. No setup fees. No learning curve.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Influencer Marketing Booking And Appointment — fully configured and ready to use - Clean ad
+# Influencer Marketing Booking and Appointment System WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVqaEXbHh2k4e006fycZA0y)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVqaEXbHh2k4e006fycZA0y)
+
